@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rakha Dwi Pradifa! (aka Rakhadevs)
 
-<!--
-**Rakhadevs/Rakhadevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a student learning software development  
+💻 I'm passionate about full-stack web dev, game dev (Unity), and open source  
+🎮 Working on a 2D RPG game for a competition with my team  
+📚 I love learning about tech, design, and personal productivity  
+🌍 Based in Indonesia  
+📫 You can reach me on Rakhadevs or rakhaadpr
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 Languages: JavaScript, C#, Python
+- 🎮 Game Dev: Unity, Krita (for pixel art)
+- 🌐 Web: Node.js, Express, HTML, CSS
+- 🐧 OS: Ubuntu, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakhadevs&show_icons=true&theme=tokyonight)
